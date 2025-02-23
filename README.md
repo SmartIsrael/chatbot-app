@@ -30,5 +30,5 @@ To train the model on understanding agricultural queries, create or collect a da
 
 ## Deployment and demo
 
-- https://cropbot.streamlit.app/
+- https://smartel.streamlit.app/
 - https://drive.google.com/file/d/1EO-j0heuqbZ7suuT4O4LdEpEoYy97hJD/view?usp=sharing
